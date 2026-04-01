@@ -1,0 +1,15 @@
+{
+  "name": "script-criador",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "main": "gerar-dinos.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@google/genai": "^1.46.0",
+    "sharp": "^0.34.5"
+  }
+}
